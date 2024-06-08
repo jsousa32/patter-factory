@@ -1,0 +1,13 @@
+{
+  "name": "pattern-factory-method",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node build/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
